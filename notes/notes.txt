@@ -1,15 +1,16 @@
-BigBasket Application (MERN Stack) Full Stack Application
----------------------
+Pro Cart - Application (MERN Stack) Full Stack Application
+__________________________________________________
 
 Server Side Configuration (Express , Mongo DB / mongoose)
--------------------------
+____________________________________________________
+
 Modules : express , mongoose , cors , dotenv
 
 npm install express mongoose cors dotenv
 
 DB Design
 ---------
-Database -> big-basket -> mongodb://127.0.0.1:27017/big-basket
+Database -> big-basket -> mongodb://127.0.0.1:27017/procart
 Table -> product
 fields -> name:string ,
 		image:string ,
